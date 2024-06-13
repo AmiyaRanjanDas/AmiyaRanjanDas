@@ -23,6 +23,15 @@ I am an ambitious and hardworking MCA student with a passion for technology and 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
+
+<p align="center">
+
+  <div align="center">
+  
+   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+
+  </div>
+  </p>
 ## 🌟 Interests
 
 - 🎯 Programming
@@ -30,28 +39,6 @@ I am an ambitious and hardworking MCA student with a passion for technology and 
 - 🎨 Arts & Crafts
 - 🖌️ Frontend Page Designs
 - 🧩 Problem Solving
-
-## 🚀 Projects
-
-### [My Portfolio Website](https://amiyaranjandas.github.io/MyPortfolio-Website/)
-![Portfolio Screenshot](https://via.placeholder.com/400x200?text=Portfolio+Screenshot)
-
-A personal portfolio website created with HTML, CSS, and JavaScript. It is highly responsive and showcases my skills, details, and information.
-
-### [Servebox.com](https://amiyaranjandas.github.io/Servebox.com-Website/)
-![Servebox Screenshot](https://via.placeholder.com/400x200?text=Servebox+Screenshot)
-
-A website created with HTML, CSS, JavaScript, and PHP. It provides information for customers/clients to get services near their locality. (Hosted on GitHub, so only the front end is accessible.)
-
-### [React-MY-TO-DO-LIST](https://amiyaranjandas.github.io/REACT-MY-TO-DO-LIST)
-![To-Do List Screenshot](https://via.placeholder.com/400x200?text=To-Do+List+Screenshot)
-
-A responsive to-do list website created with React JavaScript. It stores data in local storage and is available in both dark and light themes.
-
-### [Time Table Website](https://amiyaranjandas.github.io/TIMETABLE-2023/)
-![Timetable Screenshot](https://via.placeholder.com/400x200?text=Timetable+Screenshot)
-
-A website consisting of a running clock, countdown timer for the next class, and a dynamically updated timetable which can be downloaded. Created to check class times dynamically.
 
 ## 📫 Connect with Me
 
