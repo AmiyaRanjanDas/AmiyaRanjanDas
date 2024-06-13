@@ -32,6 +32,7 @@ I am an ambitious and hardworking MCA student with a passion for technology and 
 
   </div>
   </p>
+  
 ## 🌟 Interests
 
 - 🎯 Programming
