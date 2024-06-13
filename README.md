@@ -4,7 +4,7 @@
 
 ![Profile Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVmaG1ncXBmNDZwa3R1bzZ5dzF2bjl3eWF4NHcxaG15Y2s2bGw0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp)
 
-I am an ambitious and hardworking MCA student with a passion for technology and innovation. With a strong foundation in programming languages such as Java and C, I am skilled in developing software solutions and web applications. I am a detail-oriented and analytical thinker, with experience working on complex projects and solving technical problems. I am also a dedicated team player, with excellent communication and interpersonal skills.
+Hey guys welcome to my profile so lets code some new ideas into life changing softwares so lets connect discuss and learn new skillls and educate others
 
 
 ## 🛠 Skills
