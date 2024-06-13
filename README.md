@@ -6,6 +6,7 @@
 
 I am an ambitious and hardworking MCA student with a passion for technology and innovation. With a strong foundation in programming languages such as Java and C, I am skilled in developing software solutions and web applications. I am a detail-oriented and analytical thinker, with experience working on complex projects and solving technical problems. I am also a dedicated team player, with excellent communication and interpersonal skills.
 
+
 ## 🛠 Skills
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
@@ -25,28 +26,29 @@ I am an ambitious and hardworking MCA student with a passion for technology and 
 
 
 <p align="center">
-
   <div align="center">
-  
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-
   </div>
   </p>
+
   
 ## 🌟 Interests
 
 - 🎯 Programming
 - 🏏 Cricket
-- 🎨 Arts & Crafts
 - 🖌️ Frontend Page Designs
 - 🧩 Problem Solving
 
+
+
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiyaranjandas/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amiyaranjandas@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amiyaranjandas)
-
-Feel free to check out my repositories and get in touch if you'd like to collaborate or just have a chat about technology, programming, or anything else!
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amiyadas1810@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/__dream_._hacker__?igsh=eHc2MjdvbGFrdW9w)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiya-ranjan-das-19a951220/)
+[![Website](https://img.shields.io/badge/-Website-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://amiyaranjandas.github.io/Portfolio-2024/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017013194768)
+Feel free to check out my repositories and get in touch 
+❤️ from my side
 
 
